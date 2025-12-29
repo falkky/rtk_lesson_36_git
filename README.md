@@ -1,6 +1,11 @@
 # Работа с Git
 
-[Скачать Git](https://git-scm.com/downloads)
+## Установка Git
+
+- **Windows**: скачайте установщик с [официального сайта](https://git-scm.com/downloads), запустите `.exe` и следуйте шагам мастера (настройки по умолчанию можно оставить).
+- **macOS**: установите через Homebrew командой `brew install git` или скачайте установщик с [официального сайта](https://git-scm.com/downloads).
+- **Linux (Ubuntu/Debian)**: выполните в терминале `sudo apt update && sudo apt install git`.
+- После установки проверьте версию командой `git --version`.
 
 ## Основные команды Git
 
