@@ -1,4 +1,4 @@
-# Git команды
+# Работа с Git
 
 [Скачать Git](https://git-scm.com/downloads)
 
