@@ -7,6 +7,12 @@
 - **Linux (Ubuntu/Debian)**: выполните в терминале `sudo apt update && sudo apt install git`.
 - После установки проверьте версию командой `git --version`.
 
+## Графические клиенты для Git
+
+- [Sourcetree](https://www.sourcetreeapp.com/) — бесплатный GUI-клиент для Windows и macOS.
+- [GitHub Desktop](https://desktop.github.com/) — простой клиент для работы с репозиториями GitHub.
+- [GitKraken](https://www.gitkraken.com/) — кроссплатформенный GUI с удобным интерфейсом.
+
 ## Основные команды Git
 
 - `git init` — инициализация локального репозитория;
